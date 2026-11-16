@@ -1,6 +1,6 @@
 {
  "schema_version": "1.1",
- "generated_at": "2026-11-15T10:08:32.018+09:00",
+ "generated_at": "2026-11-16T10:00:36.370+09:00",
  "purpose": "연구용 가격 투명성 참고 패널. 개별 점포 가격·재고·결제 가능 여부가 아님.",
  "update_rule": "매일 1회 갱신, 수집 실패 시 직전 내용 보존(stale=true)",
  "datasets": [
@@ -9,9 +9,9 @@
    "title": "축산물 업태별 소비자가격",
    "provider": "축산물품질평가원 축산유통정보(다봄)",
    "source_url": "https://www.ekapepia.com/v3/hereMeat/businessTypePriceInfo.do",
-   "period": "2026-10-16~2026-11-15",
+   "period": "2026-10-17~2026-11-16",
    "geography": "전국 평균",
-   "updated_at": "2026-11-15T10:08:32.018+09:00",
+   "updated_at": "2026-11-16T10:00:36.370+09:00",
    "stale": false,
    "channels": {
     "대형마트": "홈플러스·이마트·롯데마트 평균",
@@ -38,11 +38,11 @@
       "normal_year": null
      },
      "super": {
-      "mean31": 4142,
+      "mean31": 4137,
       "latest": 4064,
       "normal_year": 3667
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "butcher": {
       "mean31": null,
@@ -58,14 +58,14 @@
      "grade": "일반란",
      "unit": "원/30구",
      "mart": {
-      "mean31": 6679,
+      "mean31": 6712,
       "latest": 6995,
       "normal_year": 6845
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 7130,
+      "mean31": 7142,
       "latest": 7387,
       "normal_year": 6469
      },
@@ -74,7 +74,7 @@
       "latest": null,
       "normal_year": null
      },
-     "super_vs_mart_pct": 106.8,
+     "super_vs_mart_pct": 106.4,
      "butcher_vs_mart_pct": null
     },
     {
@@ -83,14 +83,14 @@
      "grade": null,
      "unit": "원/kg",
      "mart": {
-      "mean31": 6653,
+      "mean31": 6718,
       "latest": 7450,
       "normal_year": 6470
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 5700,
+      "mean31": 5686,
       "latest": 5350,
       "normal_year": 5754
      },
@@ -99,7 +99,7 @@
       "latest": null,
       "normal_year": null
      },
-     "super_vs_mart_pct": 85.7,
+     "super_vs_mart_pct": 84.6,
      "butcher_vs_mart_pct": null
     },
     {
@@ -108,20 +108,20 @@
      "grade": null,
      "unit": "원/100g",
      "mart": {
-      "mean31": 1660,
+      "mean31": 1659,
       "latest": 1725,
       "normal_year": 1589
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 1537,
-      "latest": 1515,
+      "mean31": 1536,
+      "latest": 1521,
       "normal_year": 1407
      },
      "butcher": {
-      "mean31": 1561,
-      "latest": 1555,
+      "mean31": 1560,
+      "latest": 1560,
       "normal_year": 1391
      },
      "super_vs_mart_pct": 92.6,
@@ -133,24 +133,24 @@
      "grade": null,
      "unit": "원/100g",
      "mart": {
-      "mean31": 2753,
+      "mean31": 2762,
       "latest": 2885,
       "normal_year": 2501
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 2626,
-      "latest": 2489,
+      "mean31": 2618,
+      "latest": 2482,
       "normal_year": 2372
      },
      "butcher": {
-      "mean31": 2663,
-      "latest": 2624,
+      "mean31": 2659,
+      "latest": 2616,
       "normal_year": 2323
      },
-     "super_vs_mart_pct": 95.4,
-     "butcher_vs_mart_pct": 96.7
+     "super_vs_mart_pct": 94.8,
+     "butcher_vs_mart_pct": 96.3
     },
     {
      "species": "돼지",
@@ -158,24 +158,24 @@
      "grade": null,
      "unit": "원/100g",
      "mart": {
-      "mean31": 2797,
+      "mean31": 2808,
       "latest": 2925,
       "normal_year": 2501
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 2810,
-      "latest": 2662,
+      "mean31": 2802,
+      "latest": 2648,
       "normal_year": 2610
      },
      "butcher": {
-      "mean31": 2914,
-      "latest": 2870,
+      "mean31": 2911,
+      "latest": 2866,
       "normal_year": 2582
      },
-     "super_vs_mart_pct": 100.5,
-     "butcher_vs_mart_pct": 104.2
+     "super_vs_mart_pct": 99.8,
+     "butcher_vs_mart_pct": 103.7
     },
     {
      "species": "돼지",
@@ -183,24 +183,24 @@
      "grade": null,
      "unit": "원/100g",
      "mart": {
-      "mean31": 1736,
+      "mean31": 1724,
       "latest": 1464,
       "normal_year": 1434
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 1599,
-      "latest": 1504,
+      "mean31": 1595,
+      "latest": 1503,
       "normal_year": 1381
      },
      "butcher": {
-      "mean31": 1609,
-      "latest": 1587,
+      "mean31": 1608,
+      "latest": 1591,
       "normal_year": 1334
      },
-     "super_vs_mart_pct": 92.1,
-     "butcher_vs_mart_pct": 92.7
+     "super_vs_mart_pct": 92.5,
+     "butcher_vs_mart_pct": 93.3
     },
     {
      "species": "소",
@@ -213,14 +213,14 @@
       "normal_year": 7696
      },
      "super": {
-      "mean31": 9497,
+      "mean31": 9459,
       "latest": 8840,
       "normal_year": 7996
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "butcher": {
-      "mean31": 8270,
+      "mean31": 8265,
       "latest": 8219,
       "normal_year": 9804
      },
@@ -238,14 +238,14 @@
       "normal_year": 8070
      },
      "super": {
-      "mean31": 6831,
+      "mean31": 6829,
       "latest": 6888,
       "normal_year": 7351
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "butcher": {
-      "mean31": 7595,
+      "mean31": 7590,
       "latest": 7557,
       "normal_year": 7968
      },
@@ -263,14 +263,14 @@
       "normal_year": 8551
      },
      "super": {
-      "mean31": 6800,
+      "mean31": 6812,
       "latest": 6812,
       "normal_year": 6920
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "butcher": {
-      "mean31": 7017,
+      "mean31": 7007,
       "latest": 6941,
       "normal_year": 7205
      },
@@ -283,24 +283,24 @@
      "grade": "1++등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 20142,
+      "mean31": 20145,
       "latest": 20973,
       "normal_year": 14939
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 14446,
-      "latest": 14666,
+      "mean31": 14464,
+      "latest": 14845,
       "normal_year": 12323
      },
      "butcher": {
-      "mean31": 15665,
-      "latest": 15647,
+      "mean31": 15662,
+      "latest": 15589,
       "normal_year": 13271
      },
-     "super_vs_mart_pct": 71.7,
-     "butcher_vs_mart_pct": 77.8
+     "super_vs_mart_pct": 71.8,
+     "butcher_vs_mart_pct": 77.7
     },
     {
      "species": "소",
@@ -308,24 +308,24 @@
      "grade": "1+등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 16572,
+      "mean31": 16529,
       "latest": 16100,
       "normal_year": 11655
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 12879,
-      "latest": 12901,
+      "mean31": 12885,
+      "latest": 12942,
       "normal_year": 11360
      },
      "butcher": {
-      "mean31": 13204,
-      "latest": 13410,
+      "mean31": 13214,
+      "latest": 13264,
       "normal_year": 11568
      },
-     "super_vs_mart_pct": 77.7,
-     "butcher_vs_mart_pct": 79.7
+     "super_vs_mart_pct": 78.0,
+     "butcher_vs_mart_pct": 79.9
     },
     {
      "species": "소",
@@ -333,24 +333,24 @@
      "grade": "1등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 15059,
+      "mean31": 15039,
       "latest": 15183,
       "normal_year": 10061
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 10773,
-      "latest": 10634,
+      "mean31": 10760,
+      "latest": 10614,
       "normal_year": 9470
      },
      "butcher": {
-      "mean31": 11026,
-      "latest": 11212,
+      "mean31": 11031,
+      "latest": 11215,
       "normal_year": 9843
      },
      "super_vs_mart_pct": 71.5,
-     "butcher_vs_mart_pct": 73.2
+     "butcher_vs_mart_pct": 73.3
     },
     {
      "species": "소",
@@ -358,24 +358,24 @@
      "grade": "1++등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 8396,
+      "mean31": 8416,
       "latest": 9516,
       "normal_year": 5785
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 5168,
-      "latest": 5164,
+      "mean31": 5171,
+      "latest": 5204,
       "normal_year": 4239
      },
      "butcher": {
-      "mean31": 5233,
-      "latest": 5227,
+      "mean31": 5230,
+      "latest": 5198,
       "normal_year": 4587
      },
-     "super_vs_mart_pct": 61.6,
-     "butcher_vs_mart_pct": 62.3
+     "super_vs_mart_pct": 61.4,
+     "butcher_vs_mart_pct": 62.1
     },
     {
      "species": "소",
@@ -383,24 +383,24 @@
      "grade": "1+등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 6794,
+      "mean31": 6778,
       "latest": 7104,
       "normal_year": 5057
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 4880,
-      "latest": 4882,
+      "mean31": 4881,
+      "latest": 4922,
       "normal_year": 4309
      },
      "butcher": {
-      "mean31": 4815,
-      "latest": 4909,
+      "mean31": 4817,
+      "latest": 4892,
       "normal_year": 4441
      },
-     "super_vs_mart_pct": 71.8,
-     "butcher_vs_mart_pct": 70.9
+     "super_vs_mart_pct": 72.0,
+     "butcher_vs_mart_pct": 71.1
     },
     {
      "species": "소",
@@ -408,24 +408,24 @@
      "grade": "1등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 6222,
+      "mean31": 6259,
       "latest": 6973,
       "normal_year": 4752
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 4537,
-      "latest": 4545,
+      "mean31": 4539,
+      "latest": 4546,
       "normal_year": 4015
      },
      "butcher": {
-      "mean31": 4547,
-      "latest": 4593,
+      "mean31": 4548,
+      "latest": 4574,
       "normal_year": 4182
      },
-     "super_vs_mart_pct": 72.9,
-     "butcher_vs_mart_pct": 73.1
+     "super_vs_mart_pct": 72.5,
+     "butcher_vs_mart_pct": 72.7
     },
     {
      "species": "소",
@@ -437,20 +437,20 @@
       "latest": 26949,
       "normal_year": 17729
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 16774,
-      "latest": 16994,
+      "mean31": 16802,
+      "latest": 17124,
       "normal_year": 13949
      },
      "butcher": {
-      "mean31": 17637,
-      "latest": 17927,
+      "mean31": 17653,
+      "latest": 17794,
       "normal_year": 14657
      },
-     "super_vs_mart_pct": 63.9,
-     "butcher_vs_mart_pct": 67.1
+     "super_vs_mart_pct": 64.0,
+     "butcher_vs_mart_pct": 67.2
     },
     {
      "species": "소",
@@ -458,24 +458,24 @@
      "grade": "1+등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 22767,
+      "mean31": 22683,
       "latest": 22345,
       "normal_year": 16603
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 15460,
-      "latest": 15576,
+      "mean31": 15479,
+      "latest": 15598,
       "normal_year": 14019
      },
      "butcher": {
-      "mean31": 14959,
-      "latest": 15014,
+      "mean31": 14965,
+      "latest": 15053,
       "normal_year": 13052
      },
-     "super_vs_mart_pct": 67.9,
-     "butcher_vs_mart_pct": 65.7
+     "super_vs_mart_pct": 68.2,
+     "butcher_vs_mart_pct": 66.0
     },
     {
      "species": "소",
@@ -483,24 +483,24 @@
      "grade": "1등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 23770,
+      "mean31": 23859,
       "latest": 24264,
       "normal_year": 15396
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 14180,
-      "latest": 14391,
+      "mean31": 14224,
+      "latest": 14409,
       "normal_year": 12099
      },
      "butcher": {
-      "mean31": 13117,
-      "latest": 13077,
+      "mean31": 13122,
+      "latest": 13163,
       "normal_year": 11720
      },
-     "super_vs_mart_pct": 59.7,
-     "butcher_vs_mart_pct": 55.2
+     "super_vs_mart_pct": 59.6,
+     "butcher_vs_mart_pct": 55.0
     },
     {
      "species": "소",
@@ -508,24 +508,24 @@
      "grade": "1++등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 12068,
+      "mean31": 12077,
       "latest": 12570,
       "normal_year": 8716
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 6505,
-      "latest": 6592,
+      "mean31": 6507,
+      "latest": 6596,
       "normal_year": 5719
      },
      "butcher": {
       "mean31": 6249,
-      "latest": 6242,
+      "latest": 6196,
       "normal_year": 5568
      },
      "super_vs_mart_pct": 53.9,
-     "butcher_vs_mart_pct": 51.8
+     "butcher_vs_mart_pct": 51.7
     },
     {
      "species": "소",
@@ -533,24 +533,24 @@
      "grade": "1+등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 9999,
+      "mean31": 9987,
       "latest": 10012,
       "normal_year": 7842
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 6332,
-      "latest": 6460,
+      "mean31": 6339,
+      "latest": 6498,
       "normal_year": 5813
      },
      "butcher": {
-      "mean31": 5750,
-      "latest": 5811,
+      "mean31": 5756,
+      "latest": 5824,
       "normal_year": 5212
      },
-     "super_vs_mart_pct": 63.3,
-     "butcher_vs_mart_pct": 57.5
+     "super_vs_mart_pct": 63.5,
+     "butcher_vs_mart_pct": 57.6
     },
     {
      "species": "소",
@@ -558,24 +558,24 @@
      "grade": "1등급",
      "unit": "원/100g",
      "mart": {
-      "mean31": 10169,
+      "mean31": 10206,
       "latest": 10183,
       "normal_year": 7189
      },
-     "latest_date": "2026-11-14",
+     "latest_date": "2026-11-15",
      "days": 30,
      "super": {
-      "mean31": 6048,
-      "latest": 6148,
+      "mean31": 6055,
+      "latest": 6188,
       "normal_year": 5457
      },
      "butcher": {
-      "mean31": 5349,
-      "latest": 5356,
+      "mean31": 5352,
+      "latest": 5349,
       "normal_year": 4929
      },
-     "super_vs_mart_pct": 59.5,
-     "butcher_vs_mart_pct": 52.6
+     "super_vs_mart_pct": 59.3,
+     "butcher_vs_mart_pct": 52.4
     }
    ]
   },
@@ -584,9 +584,9 @@
    "title": "수산물 전통시장·대형유통 소매가격",
    "provider": "한국농수산식품유통공사 KAMIS",
    "source_url": "https://www.kamis.or.kr/customer/reference/openapi_list.do?action=detail&boardno=17",
-   "period": "2026-10-16~2026-11-15",
+   "period": "2026-10-17~2026-11-16",
    "geography": "전국 조사 시장",
-   "updated_at": "2026-11-15T10:08:32.018+09:00",
+   "updated_at": "2026-11-16T10:00:36.370+09:00",
    "stale": false,
    "method": "시장(매장)별 기간 평균 후 채널별 평균·중앙값. 시장명에 '-유통' 포함 시 대형유통.",
    "caveats": [
@@ -613,25 +613,25 @@
      "item": "갈치(냉장,中,1마리)",
      "latest_date": "2026-11-13",
      "trad_n": 9,
-     "trad_mean": 8360,
-     "trad_median": 7380,
+     "trad_mean": 8347,
+     "trad_median": 7369,
      "big_n": 26,
-     "big_mean": 6532,
-     "big_median": 6956,
+     "big_mean": 6522,
+     "big_median": 6974,
      "trad_vs_big_pct_mean": 128.0,
-     "trad_vs_big_pct_median": 106.1,
+     "trad_vs_big_pct_median": 105.7,
      "flag": null
     },
     {
      "item": "참조기(냉장,中,1마리)",
      "latest_date": "2026-11-13",
      "trad_n": 5,
-     "trad_mean": 1556,
+     "trad_mean": 1558,
      "trad_median": 1530,
      "big_n": 21,
-     "big_mean": 1670,
+     "big_mean": 1675,
      "big_median": 1713,
-     "trad_vs_big_pct_mean": 93.2,
+     "trad_vs_big_pct_mean": 93.0,
      "trad_vs_big_pct_median": 89.3,
      "flag": null
     },
@@ -639,13 +639,13 @@
      "item": "명태(냉동,中,1마리)",
      "latest_date": "2026-11-13",
      "trad_n": 8,
-     "trad_mean": 2730,
+     "trad_mean": 2731,
      "trad_median": 2790,
      "big_n": 1,
-     "big_mean": 5737,
-     "big_median": 5737,
-     "trad_vs_big_pct_mean": 47.6,
-     "trad_vs_big_pct_median": 48.6,
+     "big_mean": 5696,
+     "big_median": 5696,
+     "trad_vs_big_pct_mean": 47.9,
+     "trad_vs_big_pct_median": 49.0,
      "flag": "대형유통 표본<5"
     },
     {
@@ -665,13 +665,13 @@
      "item": "삼치(냉장,大,1마리)",
      "latest_date": "2026-11-13",
      "trad_n": 7,
-     "trad_mean": 7450,
-     "trad_median": 7690,
+     "trad_mean": 7462,
+     "trad_median": 7700,
      "big_n": 29,
-     "big_mean": 8877,
-     "big_median": 8947,
-     "trad_vs_big_pct_mean": 83.9,
-     "trad_vs_big_pct_median": 86.0,
+     "big_mean": 8860,
+     "big_median": 9000,
+     "trad_vs_big_pct_mean": 84.2,
+     "trad_vs_big_pct_median": 85.6,
      "flag": null
     },
     {
@@ -691,23 +691,23 @@
      "item": "바지락(냉장,1kg)",
      "latest_date": "2026-11-13",
      "trad_n": 15,
-     "trad_mean": 7985,
-     "trad_median": 7980,
+     "trad_mean": 7987,
+     "trad_median": 7974,
      "big_n": 33,
-     "big_mean": 11476,
-     "big_median": 10491,
-     "trad_vs_big_pct_mean": 69.6,
-     "trad_vs_big_pct_median": 76.1,
+     "big_mean": 11430,
+     "big_median": 10396,
+     "trad_vs_big_pct_mean": 69.9,
+     "trad_vs_big_pct_median": 76.7,
      "flag": null
     },
     {
      "item": "꽃게(냉동,1kg)",
      "latest_date": "2026-11-13",
      "trad_n": 10,
-     "trad_mean": 16769,
+     "trad_mean": 16773,
      "trad_median": 16900,
      "big_n": 20,
-     "big_mean": 15185,
+     "big_mean": 15188,
      "big_median": 13800,
      "trad_vs_big_pct_mean": 110.4,
      "trad_vs_big_pct_median": 122.5,
@@ -717,39 +717,39 @@
      "item": "전복(냉장,5마리)",
      "latest_date": "2026-11-13",
      "trad_n": 14,
-     "trad_mean": 11953,
-     "trad_median": 12026,
-     "big_n": 24,
-     "big_mean": 11436,
-     "big_median": 11176,
-     "trad_vs_big_pct_mean": 104.5,
-     "trad_vs_big_pct_median": 107.6,
+     "trad_mean": 11993,
+     "trad_median": 12055,
+     "big_n": 23,
+     "big_mean": 11466,
+     "big_median": 11327,
+     "trad_vs_big_pct_mean": 104.6,
+     "trad_vs_big_pct_median": 106.4,
      "flag": null
     },
     {
      "item": "마른멸치(중멸,100g)",
      "latest_date": "2026-11-13",
      "trad_n": 17,
-     "trad_mean": 2081,
-     "trad_median": 2111,
+     "trad_mean": 2080,
+     "trad_median": 2112,
      "big_n": 35,
-     "big_mean": 2884,
-     "big_median": 2606,
-     "trad_vs_big_pct_mean": 72.2,
-     "trad_vs_big_pct_median": 81.0,
+     "big_mean": 2861,
+     "big_median": 2538,
+     "trad_vs_big_pct_mean": 72.7,
+     "trad_vs_big_pct_median": 83.2,
      "flag": null
     },
     {
      "item": "새우젓(1kg)",
      "latest_date": "2026-11-13",
      "trad_n": 17,
-     "trad_mean": 18217,
-     "trad_median": 18038,
+     "trad_mean": 18332,
+     "trad_median": 18090,
      "big_n": 36,
-     "big_mean": 20841,
-     "big_median": 21943,
-     "trad_vs_big_pct_mean": 87.4,
-     "trad_vs_big_pct_median": 82.2,
+     "big_mean": 20781,
+     "big_median": 21845,
+     "trad_vs_big_pct_mean": 88.2,
+     "trad_vs_big_pct_median": 82.8,
      "flag": null
     },
     {
@@ -772,9 +772,9 @@
      "trad_mean": 2139,
      "trad_median": 2000,
      "big_n": 36,
-     "big_mean": 3455,
+     "big_mean": 3450,
      "big_median": 3490,
-     "trad_vs_big_pct_mean": 61.9,
+     "trad_vs_big_pct_mean": 62.0,
      "trad_vs_big_pct_median": 57.3,
      "flag": null
     }
