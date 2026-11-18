@@ -1,9 +1,9 @@
 {
- "last_success": "2026-11-17T10:05:27.744+09:00",
- "last_attempt": "2026-11-17T10:05:27.744+09:00",
+ "last_success": "2026-11-18T10:05:30.305+09:00",
+ "last_attempt": "2026-11-18T10:05:30.305+09:00",
  "result": {
-  "ekape": "ok rows=1832 history=1888",
-  "kamis": "ok rows=8781 items=14 history=9133"
+  "ekape": "ok rows=1832 history=1947",
+  "kamis": "ok rows=9227 items=14 history=9579"
  },
  "stale": {
   "livestock": false,
